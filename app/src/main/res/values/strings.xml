@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+        <item> Entertainments </item>
+        <item> Events </item>
+    </string-array>
+    <string-array name="Description">
+        <item>Create and Manage your Timetable</item>
+        <item>Currently available Subjects</item>
+        <item>Get to learn about our faculty</item>
+        <item>E-resources and free resources available</item>
+        <item>You deserve every Fun-beat you can get! do Enjoy Your-self </item>
+        <item>For Previous, Current and upcomming Events</item>
+    </string-array>
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Sarturday </item>
+        <item> Sunday </item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item> Business Communication </item>
+        <item> Software Engineering </item>
+        <item> Computer Networking </item>
+    </string-array>
+    
+    <string-array name="Comms">
+        <item>Listen, read and comprehend</item>
+        <item>Paraphrase and summarize information</item>
+        <item>Distinguish between facts, assumptions, and opinions</item>
+        <item>Respond appropriately in a clear and concise fashion (oral and written)</item>
+        <item>Synthesize information from different sources</item>
+        <item>Web pages on spelling, listening, jargon and gobbledygook. Booher: </item>
+        <item>Chap. 4, "Aim to Get Attention for Your Own E-mail" and  \n
+            Chap. 5: Guffey: "Writing Process Phase 1: Analyze, Anticipate, Adapt." \n
+            Chap. 8, "Counterproductive Communication Habits.” </item>
+    </string-array>
+    <string-array name="software">
+        <item>Listen, read and comprehend</item>
+        <item>Paraphrase and summarize information</item>
+        <item>Distinguish between facts, assumptions, and opinions</item>
+        <item>Respond appropriately in a clear and concise fashion (oral and written)</item>
+        <item>Synthesize information from different sources</item>
+        <item>Web pages on spelling, listening, jargon and gobbledygook. Booher: </item>
+
+        <item>Chap. 4, "Aim to Get Attention for Your Own E-mail" and  \n
+            Chap. 5: Guffey: "Writing Process Phase 1: Analyze, Anticipate, Adapt." \n
+            Chap. 8, "Counterproductive Communication Habits.” </item>
+    </string-array>
+    <string-array name="network">
+        <item>Listen, read and comprehend</item>
+        <item>Paraphrase and summarize information</item>
+        <item>Distinguish between facts, assumptions, and opinions</item>
+        <item>Respond appropriately in a clear and concise fashion (oral and written)</item>
+        <item>Synthesize information from different sources</item>
+
+        <item>Web pages on spelling, listening, jargon and gobbledygook. Booher: </item>
+        <item>Chap. 4, "Aim to Get Attention for Your Own E-mail" and  \n
+            Chap. 5: Guffey: "Writing Process Phase 1: Analyze, Anticipate, Adapt." \n
+            Chap. 8, "Counterproductive Communication Habits.” </item>
+
+
+
+    </string-array>
+</resources>
